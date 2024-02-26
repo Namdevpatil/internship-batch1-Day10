@@ -1,0 +1,51 @@
+Primitive Data types are:
+========================
+4 integer type: 
+
+byte
+short
+int 
+long
+
+2 floating point data types
+
+float
+double
+
+1 character type
+
+char
+
+1 boolean type 
+
+boolean
+
+---------------------------------------------------------------------------------------
+
+primitive data types                            Wrapper classes
+
+	byte 											Byte
+	short											Short
+	int												Integer
+	long											Long
+	
+	float											Float
+	double											Double
+	
+	char											Character
+	
+	boolean											Boolean
+	
+
+=> In Java most of the time we will deal with an Objects.
+
+1. A particular data type size, default value, MAX_VALUE and MIN_VALUE ..etc.
+
+2. conversions 
+
+primitive value to object type
+
+object type to primitive value
+
+3. generics in Collections
+
